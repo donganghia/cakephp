@@ -1,0 +1,3 @@
+<script>
+    popupAlert('<?= $message ?>');
+</script>

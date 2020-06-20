@@ -1,0 +1,1 @@
+<?= $this->element('../MSupplier/_form', ['title' => '仕入先マスタ保守更新']); ?>

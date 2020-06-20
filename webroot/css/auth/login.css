@@ -1,0 +1,72 @@
+/*Login*/
+.login-form {
+    padding-top: 80px;
+    height: 100%;
+}
+
+.login-form .main-div {
+    width: 360px;
+    margin: 0 auto;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 5px;
+}
+
+.panel {
+    width: 100%;
+    height: 42px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto Embed", Arial, sans-serif, "SimSun", "Noto Serif SC";
+    font-size: 20px;
+    background-color: rgb(66, 129, 208);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 42px;
+}
+
+.login-form input {
+    width: 100%;
+    height: 30px;
+}
+
+.login-form #login {
+    padding: 15px;
+}
+
+.login-form .recapcha {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.login-form .recapcha img {
+    width: 273px;
+    height: 65px;
+}
+
+.login-form .btn-login {
+    margin-top: 10px;
+    width: 167px;
+    height: 42px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto Embed", Arial, sans-serif, "SimSun", "Noto Serif SC";
+    font-size: 20px;
+    background-color: rgb(66, 129, 208);
+    border-radius: 5px;
+    text-align: center;
+    line-height: 42px;
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    touch-action: none;
+    border: none;
+    cursor: pointer;
+}
+
+.login-form .logo {
+    margin: 45px auto 55px;
+    text-align: center;
+}
+
+.g-recaptcha {
+    width: 304px;
+    height: 78px;
+}

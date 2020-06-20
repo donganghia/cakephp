@@ -1,0 +1,1 @@
+<?= $this->element('../MCustomer/_form', ['title' => '顧客マスタ保守登録', 'type' => 'add']) ?>
